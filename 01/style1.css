@@ -1,0 +1,17 @@
+#header {
+    color: red;
+}
+
+.highlight{
+  background-color: yellow;
+}
+
+.main-ingredients{
+  color: blue;
+}
+  
+.sub-header{
+  border: 3px solid rgb(0, 83, 0);
+  padding: 10px;
+  width: 400px;
+}
